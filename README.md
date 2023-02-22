@@ -6,9 +6,17 @@
 
 This project aims at web-scraping and data analysis for the mission to Mars program. The main goal is to organize, analyze, and visualize the data.
 
-Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
+## Deliverable 1: 
 
-Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
+- A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
+
+### Extract the title and preview text from the elements
+
+![](image_3.png)
+
+
+## Deliverable 2: 
+- A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
 
 ### Create a Pandas DataFrame by using the list of rows and a list of the column names
 
